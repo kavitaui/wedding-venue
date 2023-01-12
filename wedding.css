@@ -1,0 +1,121 @@
+body{
+background-color:white;
+background-image: url("file:///Users/kavitapandey/Documents/pngtree-background-abstract-business-purple-picture-image_1328214.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.box
+{ 
+     height:100%;
+    width:100%;
+    padding: 0;
+    margin: 0;
+}
+.header{
+background-color: purple;
+height: fit-content;
+width:auto;
+}
+span{
+    color:rgb(239, 188, 20);
+    
+}
+h1{
+    color:white;
+}
+h2{
+    color: white;
+    font-size:150%;
+    text-align: left;
+}
+h3{
+    text-align: center;
+    
+    color:purple;
+    font-size: 150%;
+}
+.menu{
+    margin: 0;
+    padding: 0;
+    list-style:none;
+    text-align:left;
+    
+   
+}
+.menu li{
+    display: inline-block;
+    padding: 15px;
+    color:white;
+}
+.menu li a {
+	color: white;
+	text-decoration: bold;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+}
+.mid-container{
+    
+    position: relative;
+    display:inline-block;
+height:100%;
+ width:100%;
+}
+.left-container{
+color:white;
+margin-left: 100;
+display:inline-block;
+float:left;
+margin-top: 110px;
+}
+h1{
+    font-size: 400%;
+
+
+}
+.right-container{
+    background-color: white;
+  display:inline-block;
+	margin-top: 100px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+float:right;
+	width: 400px;
+    height:500px;
+}
+input[type=text],input[type=calender]{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0px 22px 0px;
+    border: none;
+    background:#f1f1f1;
+  }
+  .column1{
+    font-size: 190%;
+}
+   
+  .btn {
+    background-color:  rgb(234, 132, 15);
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  .btn:hover {
+    background-color: purple;
+    opacity: 1;
+  }
+  .below-container{
+    color:white;
+  }
+  .box2{
+    height:100%;
+    width:100%;
+    padding: 0;
+    margin: 0;
+}
+
+  
